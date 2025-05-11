@@ -1,1 +1,1 @@
-# dzk-privacy-policy
+# pnp-privacy-policy
